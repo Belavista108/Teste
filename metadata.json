@@ -1,0 +1,5 @@
+{
+  "name": "Portal do Cliente B2B",
+  "description": "Um aplicativo de autoatendimento para clientes realizarem pedidos, consultarem histórico e receberem recomendações via IA, similar a uma força de vendas mas focado no comprador.",
+  "requestFramePermissions": []
+}
